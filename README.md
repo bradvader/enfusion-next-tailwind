@@ -1,2 +1,4 @@
 # enfusion-next-tailwind
-Main repo for Enfusion, using Next.js with Tailwind CSS
+Main repo for Enfusion app, using Next.js with Tailwind CSS.
+
+
